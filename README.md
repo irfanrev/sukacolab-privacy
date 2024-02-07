@@ -1,11 +1,11 @@
 # Kebijakan Privasi Sukacolab
 
-Efektif sejak: Rabu, 7 Februari 2024
+Efektif sejak: Rabu, 10 Februari 2024
 
-Kami di Sukacolab sangat memprioritaskan privasi dan keamanan pengguna kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi yang dikumpulkan dari pengguna kami saat menggunakan aplikasi Unsika Connect. Kami mendorong Anda untuk membaca kebijakan ini dengan seksama untuk memahami bagaimana kami menjaga kerahasiaan data pribadi Anda.
+Kami di Sukacolab sangat memprioritaskan privasi dan keamanan pengguna kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi yang dikumpulkan dari pengguna kami saat menggunakan aplikasi Sukacolab. Kami mendorong Anda untuk membaca kebijakan ini dengan seksama untuk memahami bagaimana kami menjaga kerahasiaan data pribadi Anda.
 
 # Pengumpulan Informasi Pribadi
-Kami dapat mengumpulkan informasi pribadi dari Anda saat Anda mendaftar dan menggunakan aplikasi Unsika Connect. Informasi pribadi yang dapat kami kumpulkan meliputi, namun tidak terbatas pada:
+Kami dapat mengumpulkan informasi pribadi dari Anda saat Anda mendaftar dan menggunakan aplikasi Sukacolab. Informasi pribadi yang dapat kami kumpulkan meliputi, namun tidak terbatas pada:
 
 - Nama lengkap
 - Alamat email
@@ -15,10 +15,8 @@ Kami dapat mengumpulkan informasi pribadi dari Anda saat Anda mendaftar dan meng
 # Penggunaan Informasi
 Kami menggunakan informasi pribadi yang kami kumpulkan untuk tujuan berikut:
 - Memverifikasi identitas Anda saat mendaftar dan masuk ke akun Anda.
-- Mengoperasikan, mengelola, dan meningkatkan layanan di dalam aplikasi Unsika Connect.
-- Menghubungkan Anda dengan mahasiswa, alumni, dosen, dan staf di Universitas Singaperbangsa Karawang.
+- Mengoperasikan, mengelola, dan meningkatkan layanan di dalam aplikasi Sukacolab.
 - Memberikan informasi yang relevan, termasuk pemberitahuan dan pembaruan tentang layanan kami.
-- Menganalisis penggunaan aplikasi dan perilaku pengguna untuk meningkatkan pengalaman pengguna dan menyesuaikan konten yang ditampilkan.
 
 # Pengungkapan Informasi
 Kami tidak akan membagikan informasi pribadi Anda kepada pihak ketiga tanpa persetujuan Anda, kecuali dalam keadaan berikut:
