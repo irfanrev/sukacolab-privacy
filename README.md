@@ -10,7 +10,7 @@ Kami dapat mengumpulkan informasi pribadi dari Anda saat Anda mendaftar dan meng
 - Nama lengkap
 - Alamat email
 - Foto profil
-- Informasi yang Anda berikan dalam diskusi dan postingan Anda
+- Informasi yang Anda tambahkan pada halaman profile untuk resume anda
 
 # Penggunaan Informasi
 Kami menggunakan informasi pribadi yang kami kumpulkan untuk tujuan berikut:
